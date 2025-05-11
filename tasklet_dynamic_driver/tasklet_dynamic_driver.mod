@@ -1,0 +1,2 @@
+/home/gowtham/Desktop/driver/tasklet_dynamic_driver/tasklet_dynamic_driver.o
+
