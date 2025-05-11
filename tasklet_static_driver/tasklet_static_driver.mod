@@ -1,0 +1,2 @@
+/home/gowtham/Desktop/driver/tasklet_static_driver/tasklet_static_driver.o
+
