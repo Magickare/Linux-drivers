@@ -1,0 +1,2 @@
+/home/gowtham/Desktop/driver/gpio_interrupt_driver/gpio_interrupt_driver.o
+
