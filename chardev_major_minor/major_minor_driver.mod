@@ -1,0 +1,2 @@
+/home/gowtham/Desktop/driver/chardev_major_minor/major_minor_driver.o
+
